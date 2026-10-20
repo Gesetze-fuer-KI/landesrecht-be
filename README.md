@@ -56,4 +56,7 @@ Google darf die Gesetze also einlesen, ein freies, gemeinnütziges Projekt nicht
 > Mit freundlichen Grüßen\
 > [Name]
 
-Bis dahin: [Landesrecht Berlin von Hand lesen](https://gesetze.berlin.de) · [gesetze-fuer-ki.de](https://gesetze-fuer-ki.de) 
+## Bis dahin
+
+- **[Landesrecht Berlin auf dem Landesportal](https://gesetze.berlin.de)**: von Hand im Browser lesen.
+- **[gesetze-fuer-ki.de](https://gesetze-fuer-ki.de)**: Bundesrecht und das Landesrecht der Länder, die den Abruf erlauben, für Ihren KI-Assistenten.
